@@ -2,7 +2,7 @@
 
 This document records work that has not yet been completed. It intentionally separates the verified local deployment from planned storage, resilience, remote-access, and performance improvements.
 
-Return to the [project overview](01-README.md), [build walkthrough](02-Jellyfin-Server-Build-Walkthrough.md), or [troubleshooting lab](03-Jellyfin-Troubleshooting-Lab.md).
+Return to the [project overview](https://github.com/Kin3o/JellyFin-Over-Proxmox-Home-Lab-Overview), [build walkthrough](https://github.com/Kin3o/02-Jellyfin-Server-Build-Walkthrough), or [troubleshooting lab](https://github.com/Kin3o/03-Jellyfin-Troubleshooting-Lab).
 
 ## Status labels
 
